@@ -1,0 +1,7 @@
+01:13:10.265 [main] ERROR com.fdmgroup.converter.TransactionProcessor - Bob yyy usd 100 > skipped: Currency entered (yyy) is invalid
+01:13:10.269 [main] ERROR com.fdmgroup.converter.TransactionProcessor - bob cad usd 100 > skipped: No such user (bob)
+01:13:10.270 [main] INFO  com.fdmgroup.converter.TransactionProcessor - Bob cad usd 100 > succeeded
+01:13:10.270 [main] INFO  com.fdmgroup.converter.TransactionProcessor - Susan cad eur 20 > succeeded
+01:13:10.271 [main] WARN  com.fdmgroup.converter.TransactionProcessor - Tommy usd cad 1000 > skipped: Insufficient balance in usd
+01:13:10.271 [main] INFO  com.fdmgroup.converter.TransactionProcessor - Bob usd hkd 30 > succeeded
+01:13:10.271 [main] INFO  com.fdmgroup.converter.TransactionProcessor - Bob hkd krw 184 > succeeded

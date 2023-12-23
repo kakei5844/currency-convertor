@@ -1,0 +1,7 @@
+Bob yyy usd 100
+bob cad usd 100
+Bob cad usd 100
+Susan cad eur 20
+Tommy usd cad 1000
+Bob usd hkd 30
+Bob hkd krw 184
